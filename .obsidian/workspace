@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a97961ddea6b93f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bf4adcf94f5135",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "recipes/thai/green curry.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "979264e80fb04070",
+    "type": "split",
+    "children": [
+      {
+        "id": "33bd111bfc954381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9d6ffad2485db3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd07fbb01e8b227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f8b27f9221002d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ebbc6d2d4fa869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa6528ebb03c662e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/thai/green curry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d1bf4adcf94f5135",
+  "lastOpenFiles": [
+    "recipes/thai/green curry.md",
+    "recipes/thai/green curry paste.md",
+    "recipes/Untitled.md",
+    "Note.md"
+  ]
+}
